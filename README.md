@@ -1,5 +1,3 @@
-# TensorFlow のコードを読んだり書いたりする会 (仮)
+# TensorFlow Source Code I/O
 
 TensorFlow のコードを読んだり、良い書き方を考えたりするぞい。
-
-もっとまともな名前募集中です。
