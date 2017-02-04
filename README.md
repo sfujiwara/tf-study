@@ -9,5 +9,8 @@
   - 誰かが書いたコードがあればそれを肴に話すも良し
   - 無ければ TensorFlow そのもののコードを読むも良し
   - TensorFlow のどの部分のコードを読みたいかだけは決めてから集まろう
-* 興味がある方は [@shuhei_fujiwara](https://twitter.com/shuhei_fujiwara) か shuhei.fujiwara@gmail.com へどうぞ
-  - もしくは何か別の手段で適当に連絡をお願いします
+
+## 連絡先
+
+* 興味がある方は [@shuhei_fujiwara](https://twitter.com/shuhei_fujiwara) へどうぞ
+  - もしくはメールとか slack とか何か別の手段で適当に連絡をお願いします
