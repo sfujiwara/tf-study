@@ -11,3 +11,7 @@ TF-Slim で VGG 16 のような学習済み既存モデルを提供するコー�
 ## 眺めるコード
 
 * https://github.com/tensorflow/models/blob/master/slim/nets/vgg.py
+
+## 議事録
+
+* [memo.md](memo.md)
