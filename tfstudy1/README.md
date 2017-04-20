@@ -1,4 +1,4 @@
-# tfstudy 1
+# TensorFlow Source Code I/O #1
 
 | 開催日 | 会場 |
 |:-:|:-:|
