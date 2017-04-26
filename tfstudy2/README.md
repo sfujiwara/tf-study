@@ -12,4 +12,7 @@
 
 ## 眺めるコード
 
+* MonitoredSession
+  - https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/training/monitored_session.py
+
 ## 議事録
